@@ -1,0 +1,26 @@
+SIP: 0001
+LAYER: Consensus
+TITLE: NEWSTACK
+AUTHOR: Derek Ross (twitter.com/derekmross)
+STATUS: Draft
+TYPE: Standards Track
+CREATED: 2022-7-20
+
+ABSTRACT
+
+On July 18, 2022 at 7:07 PM, @AriZonanHODL purchased a $5 USD stack worth of bitcoin. He then asked if others would "feel free to join" him. His followers and bitcoin plebs around Twitter started to join in, purchasing their own inidividual stacks of bitcoin, and incrementally increasing the purchase price of the stack by $1 USD for each individual's purchase. Over time, the stack size grew, making bitcoin plebs with little fiat readily available able to particpate. This Stackchain Improvement Proposal (SIP-0001) aims to allow those additional plebs to particpate by creating a NEWSTACK sidechain. Each NEWSTACK must be numbered and approved by the majority of the longest chain of the Stackchain.
+
+PROCESS
+
+To Create a NEWSTACK, a pleb must follow this process:
+	1) Visit the @AriZonanHODL Stackchain thread located at 'https://twitter.com/AriZonanHODL/status/1549169119924080640'.
+	2) Find the current Stack Height of the Stackchain. (i.e. $200 USD)
+	3) Find the current approved NEWSTACK. (i.e. NEWSTACK0001)
+	4) Reply to the highest Stack Height Tweet with a request to create a NEWSTACK. (i.e. Requesting approval to start NEWSTACK0001, because I'm alow on dry powder.)
+	5) Reply to the highest NEWSTACK found with a request to create a NEWSTACK. (i.e. See above example.)
+	6) Once approved, start a new NEWSTACK sidechain of Stackchain on their own Twitter profile.
+	7) Link back to the OP announcing the NEWSTACK sidechain Genesis Post.
+
+
+
+
