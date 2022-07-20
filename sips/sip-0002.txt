@@ -1,0 +1,25 @@
+SIP: 0002
+LAYER: Consensus
+TITLE: Pooling
+AUTHOR: Semisol (twitter.com/semisol_public)
+STATUS: Draft
+TYPE: Standards Track
+CREATED: 2022-7-20
+
+ABSTRACT
+
+Individual plebs may not have enough money to participate in the next stack, and may prefer pooling with other plebs to publish the next stack.
+
+PROCESS
+
+To pool money for the next stack, the following procedure should be followed:
+	1) Visit the @AriZonanHODL Stackchain thread located at 'https://twitter.com/AriZonanHODL/status/1549169119924080640', or the NEWSTACK of your choice.
+	2) Find the current Stack Height of the Stackchain. (i.e. $200 USD)
+	3) Reply with your intentions to start pooling, and attach an image of your Bitcoin purchase as your initial contribution.
+	4) Wait until the amount contributed is equal to the latest tip height. If the tip moves after the proposal is submitted, the threshold is moved too.
+	5) Submit a new stack with all contributions
+
+To contribute to a pool:
+	1) Make sure your contribution would not bring the pool above the current height.
+	2) Make the purchase of your contribution amount.
+	3) Reply to the pooling proposal with the image of your purchase.
