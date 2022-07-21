@@ -2,7 +2,7 @@ SIP: 0003
 LAYER: Consensus
 TITLE: Stackjoin
 AUTHOR: Semisol (twitter.com/semisol_public)
-STATUS: Draft
+STATUS: Active
 SUPERSEDES: SIP-0002
 TYPE: Standards Track
 CREATED: 2022-7-20
