@@ -2,7 +2,7 @@ SIP: 0001
 LAYER: Consensus
 TITLE: NEWSTACK
 AUTHOR: Derek Ross (twitter.com/derekmross)
-STATUS: Draft
+STATUS: Rejected
 TYPE: Standards Track
 CREATED: 2022-7-20
 
