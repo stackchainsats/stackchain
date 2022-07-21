@@ -27,5 +27,5 @@ To contribute to a Stackjoin:
 
 How to publish a Stackjoin:
 	1a) (pooled) Collect all contributions.
-    1b) (unpooled) Request approval from the orphaned stack's publisher. If you want to proceed anyway, provide strong not double spend proof.
+    1b) (unpooled) Request approval from the orphaned stack's publisher. A tweet by the publisher indicating anyone can Stackjoin it or authorization via DM or other messaging platforms qualify.
 	2) Publish a reply to the tip of the current stackchain (the original Stackchain or a NEWSTACK) with all pictures of purchases.
