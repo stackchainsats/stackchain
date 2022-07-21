@@ -12,3 +12,5 @@ In lamen terms:
 "it's just fun and shitposting with a little bit of bitcoin lingo thrown in to make it more fun as we shitpost as we buy bitcoin."
 <br>
 (Derek Ross, Stackchain height $234)
+
+Join us on <a href="https://t.me/stackchainsats">Telegram.</a>
