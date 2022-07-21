@@ -2,7 +2,8 @@ SIP: 0002
 LAYER: Consensus
 TITLE: Pooling
 AUTHOR: Semisol (twitter.com/semisol_public)
-STATUS: Draft
+STATUS: Superseded
+SUPERSEDED-BY: SIP-0003
 TYPE: Standards Track
 CREATED: 2022-7-20
 
