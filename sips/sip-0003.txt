@@ -13,7 +13,7 @@ Plebs may want to attach another purchase to their or others' orphaned stacks, o
 
 PROCESS
 
-To start a Stackjoin (proposal):
+To start a Stackjoin (pooled):
 	1) Visit the @AriZonanHODL Stackchain thread located at 'https://twitter.com/AriZonanHODL/status/1549169119924080640', or the NEWSTACK of your choice.
 	2) Find the current Stack Height of the Stackchain. (i.e. $200 USD)
 	3) Reply with your intentions to start pooling, and attach an image of your Bitcoin purchase as your initial contribution.
@@ -26,6 +26,6 @@ To contribute to a Stackjoin:
 	3) Reply to the Stackjoin proposal with the image of your purchase (orphaned stacks can be included).
 
 How to publish a Stackjoin:
-	1a) (without proposal) Collect orphaned and new, unspent purchases.
-	1b) (with proposal) Collect all contributions.
+	1a) (pooled) Collect all contributions.
+    1b) (unpooled) Request approval from the orphaned stack's publisher. If you want to proceed anyway, provide strong not double spend proof.
 	2) Publish a reply to the tip of the current stackchain (the original Stackchain or a NEWSTACK) with all pictures of purchases.
