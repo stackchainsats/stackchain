@@ -2,7 +2,7 @@ SIP: 0004
 LAYER: Consensus
 TITLE: DOUBLE SPEND PREVENTION
 AUTHOR: Derek Ross (twitter.com/derekmross)
-STATUS: Draft
+STATUS: Active
 TYPE: Standards Track
 CREATED: 2022-7-20
 
