@@ -7,9 +7,9 @@
 Simply put, Stackchain is buying bitcoin consecutively with other Bitcoiners. We’re all buying bitcoin, right? We know that bitcoin is the hardest money in the world and we’re already going to be buying as much as we can, so why not gamify it a little bit, have some fun, and be social with your fellow bitcoin plebs.
 
 In lamen terms:
-"it's just fun and shitposting with a little bit of bitcoin lingo thrown in to make it more fun as we shitpost as we buy bitcoin."
-<br>
-(Derek Ross, Stackchain height $234)
+<blockquote>"it's just fun and shitposting with a little bit of bitcoin lingo thrown in to make it more fun as we shitpost as we buy bitcoin."
+<br/><br/>
+Derek Ross, Stackchain height $234</blockquote>
 
 Stackchain was born completely organically when AriZonanHODL <a href="https://twitter.com/AriZonanHODL/status/1549169119924080640/">decided to buy</a> $5 of bitcoin and see if anyone else wanted to buy a little with him. Someone replied with a $6 purchase. Next, someone replied to that $6 purchase with a $7 purchase. Then, someone replied to that purchase with an $8 purchase. These consecutive purchases kept coming in, iterating one after another, growing the chain of purchases, expanding the amount of bitcoin that was being purchased. Eventually, many bitcoin plebs fell in love with the idea of stacking bitcoin consecutively with one another, growing their stack, acquiring more bitcoin, all the while growing the chain of posts on the original Twitter thread. And thus, Stackchain was born.
 
