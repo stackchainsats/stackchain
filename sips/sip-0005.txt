@@ -1,0 +1,20 @@
+SIP: 0005
+LAYER: Consensus
+TITLE: Restriction on self-validation at determined heights
+AUTHOR: Semisol (twitter.com/semisol_public)
+STATUS: Draft
+TYPE: Standards Track
+CREATED: 2022-7-25
+
+ABSTRACT
+
+This proposal limits self-validation at pre-defined chain heights.
+
+RESTRICTIONS APPLIED
+
+	1) A stack is invalid if:
+		a) it is posted at heights 600, 666, 700, 777, 800, 888, 900, 999, 1000
+		b1) the reply contains multiple stacks OR
+		b2) the person is replying to their own stack
+	   This rule bypasses any miner confirmation.
+ 
