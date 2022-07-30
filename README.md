@@ -52,27 +52,31 @@ To have fun while buying as much bitcoin as possible.
 <hr/>
 <strong>Glossary of Stackchain Terms</strong>
 <br/><br/>
-Block - A Twitter post with a screenshot or a compilation of screenshots indicating a purchase of bitcoin.
-<br/><br/>
-Block Height - The highest consecutive block.
-<br/><br/>
-Chain - A Twitter thread with replies to the main post. Often referred to as “main chain”.
-<br/><br/>
-Fork - A Twitter thread with replies to any post that creates a new thread or a sub-thread away from the main thread.
-<br/><br/>
-Genesis Block or Thread - The <a href="https://twitter.com/AriZonanHODL/status/1549169119924080640/">Twitter thread</a> and its proceeding thread of bitcoin purchases, where Stackchain originated.
-<br/><br/>
-Mempool - A collection of Stacks that need to be Stackjoined and brought into the main chain. This is similar to bitcoin transactions waiting to be mined and included in a bitcoin block.
-<br/><br/>
-Miners - Stackers that are validating and verifying transactions and blocks.
-<br/><br/>
-Stack - A purchase of bitcoin, either a full block or a partial block.
-<br/><br/>
-Stackjoin - Combining multiple Stacks into one full block. (SIP-003)
-<br/><br/>
-StackchainTip - The current block height or latest, consecutive bitcoin purchase. Often referred to as “the tip”.
-
-
+<ul>
+<li><strong>stack</strong>: A purchase of bitcoin.</li>
+<li><strong>receipt</strong>: A screenshot of a <i>stack</i>.</li>
+<li><strong>partial stack</strong>: A stack insufficient to create a block and must be <i>stackjoined</i> to be in a block.</li>
+<li><strong>block</strong>: A reply that contains one or more <i>receipts</i>.</li>
+<li><strong>self confirmation</strong>: Building on top of your own <i>block</i> to get a higher chance of validation.</li>
+<li><strong>confirmation</strong>: How many blocks exist after a given block. Usually counted as zero if the poster has <i>self confirmed</i> and no one else has built on their chain.</li>
+<li><strong>multi block</strong>: A <i>block</i> that advances the tip height more than 1.</li>
+<li><strong>solo block</strong>: A <i>block</i> mined by a single person. May be a <i>stackjoin</i> as all inputs are provided by the same person.</li>
+<li><strong>stackjoin</strong>: The combination of multiple <i>receipts</i> to create a valid <i>(multi) block</i>.</li>
+<li><strong>miner</strong>: A person that participates in <i>stackjoin</i> creation or the creation of <i>solo blocks</i>.</li>
+<li><strong>orphan block</strong>: A block that is not in the longest chain. The <i>receipts</i> in orphan blocks are usually added to the <i>mempool</i>.</li>
+<li><strong>double spend</strong>: A single <i>receipt</i> being used multiple times in a single <i>chain</i>.</li>
+<li><strong>chain</strong>: A chain of <i>blocks</i> from the genesis block to the <i>chain tip</i>.</li>
+<li><strong>orphaned chain</strong>: A chain that is not the longest chain.</li>
+<li><strong>fork</strong>: Two <i>chains</i> that are competing to be the longest one. Usually this will go on until one of the chains become unmaintained and becomes an <i>orphaned chain</i>.</li>
+<li><strong>chain tip</strong>: The block with the highest value in a <i>chain</i>.</li>
+<li><strong>mempool</strong>: A document containing unused <i>receipts</i> to be <i>stackjoined</i>. Currently maintained by Semisol, FalseFaucet and sathoarder.</li>
+<li><strong>proxy block</strong>: A block posted outside the tip being quote tweeted on the tip in case the <i>miner</i> does not care.<br>
+The proxy block will be deleted if the <i>miner</i> posts to the tip themselves.</li>
+<li><strong>validation</strong>: The verification of blocks by <i>nodes</i>.</li>
+<li><strong>node</strong>: A Stackchain participant.</li>
+<li><strong>SIP</strong>: A Stackchain Improvement Proposal. The most popular SIP is SIP-0003 <i>Stackjoin</i>.</li>
+<li><strong>genesis block</strong>: The <a href="https://twitter.com/AriZonanHODL/status/1549169119924080640/">first block</a> of the Stackchain.</li>
+</ul>
 <hr/>
 <strong>Other Resources</strong>
 <br/><br/>
