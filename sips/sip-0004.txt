@@ -8,7 +8,7 @@ CREATED: 2022-7-20
 
 ABSTRACT
 
-At times, the Stackchain can get very busy with a multitude of transactions coming through. These can be regular full stacks or partial Stackjoins. When the network gets conjested, we run the risk of double spending. This SIP aims to stop double spending from happening.
+At times, the Stackchain can get very busy with a multitude of transactions coming through. These can be regular full stacks or partial Stackjoins. When the network gets congested, we run the risk of double spending. This SIP aims to stop double spending from happening.
 
 PROCESS
 
