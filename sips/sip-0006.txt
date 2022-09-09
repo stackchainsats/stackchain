@@ -1,0 +1,22 @@
+SIP: 0006
+LAYER: Consensus
+TITLE: MANDATORY PROOF IN BLOCKS
+AUTHOR: Semisol (twitter.com/semisol_public)
+STATUS: Draft
+TYPE: Standards Track
+CREATED: 2022-09-09
+
+ABSTRACT
+
+This SIP mandates that blocks contain proof of purchase in the block post and not in replies.
+
+RESTRICTIONS ADDED
+
+All blocks MUST have proof in the main Tweet of the block, which is the first reply announcing a block.
+If all screenshots cannot fit, proofs may be:
+- Split across multiple replies, forming a thread of proofs.
+- Converted into one large image
+- Converted into a video or GIF
+
+Stackjoin block miners SHOULD post a link to all Ttweets as a reply to their SJ.
+The root tweet MUST NOT contain any images or non-proof media unless all proofs fit in the root tweet.
