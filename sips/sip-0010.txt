@@ -2,7 +2,7 @@ SIP: 0010
 LAYER: Consensus Layer
 TITLE: Protocol for Bitcoin miners to mine Stackchain blocks.
 AUTHOR: Semisol
-STATUS: Draft
+STATUS: Active
 TYPE: Standards Track
 CREATED: 2022-09-12
 
