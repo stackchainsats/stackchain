@@ -18,7 +18,7 @@ PROCESS
     - How many miners they operated
     - How much Bitcoin they obtained
    in a reply to end the process.
-4) The miner should submit (if requested) a trusted community member a link to their withdrawal transaction.
+4) The miner should submit (if requested) a redacted screenshot of their withdrawal.
 5) If nodes reject the results, the miner should provide the electricity price and power draw information for further validation.
    If you did not note down this information, the process starts from zero.
-5) After the published data was verified and (if requested) the community member attests to the fact the withdrawal took place, a Stackchainer should provide a receipt to the miner with basic information about the process. This receipt can be used like any other in Stackjoins or mining blocks.
+6) After the published data was verified, a Stackchainer should provide a receipt to the miner with basic information about the process. This receipt can be used like any other in Stackjoins or mining blocks.
