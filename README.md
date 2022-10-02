@@ -6,7 +6,7 @@
 
 Simply put, Stackchain is buying bitcoin consecutively with other Bitcoiners. We’re all buying bitcoin, right? We know that bitcoin is the hardest money in the world and we’re already going to be buying as much as we can, so why not gamify it a little bit, have some fun, and be social with your fellow bitcoin plebs.
 
-In lamen terms:
+In layman's terms:
 <blockquote>"it's just fun and shitposting with a little bit of bitcoin lingo thrown in to make it more fun as we shitpost as we buy bitcoin."
 <br/><br/>
 Derek Ross, Stackchain height $234</blockquote>
