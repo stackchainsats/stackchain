@@ -12,7 +12,8 @@ At times, the Stackchain can get very busy with a multitude of transactions comi
 
 PROCESS
 
-	1) Any purchase that's 10 minutes older than the originating Tweet will be rejected unless proof is provided that it was orphaned or published by another pleb. 
+	1) Any purchase that's 3 hours older than the originating Tweet will be rejected unless proof is provided that it was orphaned or published by another pleb.
 	2) Screenshots or pictures with date and time visible are strongly recommended when the app does not provide a date or time.
-	3) Plebs publishing Stackjoins should be ready to reply to any request for the origin of outputs.
-		a) Please follow the publishing process of SIP-0003
+	3) Stackjoins do not have a time limit on purchases.
+		a) Nodes should still verify the timestamps for stackjoin posts.
+		b) This rule cannot be used to evade rule #1 with intent to prebuy.
