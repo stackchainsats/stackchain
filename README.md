@@ -86,4 +86,3 @@ The proxy block will be deleted if the <i>miner</i> posts to the tip themselves.
 </strong>Stackchain’s Sidechain - Telegram/Matrix</strong>
 	We set up a <a href="https://t.me/stackchainsats">Telegram</a> and Matrix channel that are bridged together to allow Stackers to collaborate together more easily in an easily followed and searchable manner. We use Telegram to talk about Stackchain, discuss upcoming SIPs, post transactions that need a Stackjoin, discuss forks and orphaned transactions, and manage the Mempool.
 <br/><br/>
-GitHub - You are here
