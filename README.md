@@ -1,4 +1,4 @@
-<img src="https://github.com/stackchainsats/stackchain/blob/main/images/stackchain-new-logo.png" width=40% height=40%>
+<img src="https://github.com/stackchainsats/stackchain/blob/main/images/chain_link2.png" width=40% height=40%>
 
 # Stackchain
 
