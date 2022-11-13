@@ -75,7 +75,7 @@ The proxy block will be deleted if the <i>miner</i> posts to the tip themselves.
 <li><strong>validation</strong>: The verification of blocks by <i>nodes</i>.</li>
 <li><strong>node</strong>: A Stackchain participant.</li>
 <li><strong>SIP</strong>: A Stackchain Improvement Proposal. The most popular SIP is SIP-0003 <i>Stackjoin</i>.</li>
-<li><strong>genesis block</strong>: The <a href="https://twitter.com/AriZonanHODL/status/1549169119924080640/">first block</a> of the Stackchain.</li>
+<li><strong>genesis block</strong>: The <a href="https://raw.githubusercontent.com/stackchainsats/stackchain/main/images/genesis.png">first block</a> of the Stackchain.</li>
 </ul>
 <hr/>
 <strong>Other Resources</strong>
